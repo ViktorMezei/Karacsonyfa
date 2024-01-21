@@ -46,8 +46,8 @@ public class KaracsonyFa2 {
         
         
         
-    }
+    } System.out.println("git added");
     
-  }
+  } 
   
 }
