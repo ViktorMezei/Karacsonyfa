@@ -6,7 +6,7 @@ public class KaracsonyFa2 {
     
     public static void main(String[] args) {
         
-      
+      String rendezett = rendezes();
      
       int startIndex = 0;
       
@@ -49,5 +49,9 @@ public class KaracsonyFa2 {
     } System.out.println("git added");
     
   } 
+
+    private static String rendezes() {
+        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+    }
   
 }
