@@ -7,6 +7,7 @@ public class KaracsonyFa2 {
     public static void main(String[] args) {
         
       String rendezett = rendezes();
+      String eldontes = eldont();
      
       int startIndex = 0;
       
@@ -51,6 +52,10 @@ public class KaracsonyFa2 {
   } 
 
     private static String rendezes() {
+        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+    }
+
+    private static String eldont() {
         throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
     }
   
